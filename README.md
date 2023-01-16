@@ -21,9 +21,9 @@
 [实验报告](https://github.com/asivwolf/SecurityExp/blob/main/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF-%E5%AE%9E%E9%AA%8C4.docx)
 
 ## 实验5-sm2公钥加密体制实现
-[代码]()
+[代码](https://github.com/asivwolf/SecurityExp/blob/main/sm2.py)
 <br>
-[实验报告]()
+[实验报告](https://github.com/asivwolf/SecurityExp/blob/main/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF-%E5%AE%9E%E9%AA%8C5.docx)
 <br>
 `实现可参考SM2原理资料`
 [参数选择参考](https://github.com/asivwolf/SecurityExp/blob/main/%E6%A4%AD%E5%9C%86%E6%9B%B2%E7%BA%BF%E6%8E%A8%E8%8D%90%E5%8F%82%E6%95%B0.pdf)
